@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "id": 5,
+            "url": "#",
+            "title": "Audi Rs 7 Spotrtage",
+            "text": "Luxory sport-car 4-seats",
+            "labels": "",
+            "image": "./img/audi-rs7.jpg",
+            "price": ": 130 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 6,
+            "url": "#",
+            "title": "Chevrolet Tahoe Sport",
+            "text": "Luxory suv 5-seats",
+            "labels": [
+                {
+                    "type": "sale",
+                    "value": "-5%"
+                }
+            ],
+            "image": "./img/gallery/gallery-12.jpg",
+            "price": ": 93 100 $",
+            "priceOld": ": 98 000 $",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 7,
+            "url": "#",
+            "title": "Laborghini Huracan Performante",
+            "text": "Luxory super-car 2-seat",
+            "labels": [
+                {
+                    "type": "sale",
+                    "value": "-50%"
+                },
+                {
+                    "type": "new",
+                    "value": "New"
+                }
+            ],
+            "image": "./img/lambo.jpg",
+            "price": ": 175 000 $",
+            "priceOld": ": 350 000 $",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 8,
+            "url": "#",
+            "title": "Porshe Panamera Turbo s e-hybrid",
+            "text": "Luxory sport-car 4-seats",
+            "labels": "",
+            "image": "./img/panamera.jpg",
+            "price": ": 250 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

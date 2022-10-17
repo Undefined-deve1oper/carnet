@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "id": 81,
+            "url": "#",
+            "title": "Lexsus Lx 570",
+            "text": "City suv 7-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/lx.jpg",
+            "price": ": 101 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 82,
+            "url": "#",
+            "title": "Suzuki Jimny",
+            "text": "City suv 2-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/Suzuki-Jimny.jpg",
+            "price": ": 11 600 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 83,
+            "url": "#",
+            "title": "Dodge Durango Hellcat",
+            "text": "Luxsory suv 7-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/Durango.jpg",
+            "price": ": 78 200 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 84,
+            "url": "#",
+            "title": "Dodge Ram TRX",
+            "text": "Luxory suv 5-seats",
+            "labels": [
+                {
+                    "type": "sale",
+                    "value": "-5%"
+                }
+            ],
+            "image": "./img/cars-catalog/trx.jpg",
+            "price": ": 190 950 $",
+            "priceOld": ": 201 000 $",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

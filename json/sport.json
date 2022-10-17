@@ -1,0 +1,52 @@
+{
+	"products": [
+		{
+			"id": 57,
+			"url": "#",
+			"title": "Dodge Ram Trx",
+			"text": "Luxory suv 5-seat",
+			"labels": "",
+			"image": "./img/cars-catalog/trx.jpg",
+			"price": ": 190 950 $",
+			"priceOld": ": 201 000 $",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 58,
+			"url": "#",
+			"title": "Mersede EQS AMG",
+			"text": "Luxsory sedan 5-seats",
+			"labels": "",
+			"image": "./img/cars-catalog/Eqs-Amg.jpg",
+			"price": ": 130 200 $",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 59,
+			"url": "#",
+			"title": "Mersedes E63 Amg",
+			"text": "City station wagon 4-seat",
+			"labels": "",
+			"image": "./img/cars-catalog/e63sWagon.jpg",
+			"price": ": 132 000 $",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 60,
+			"url": "#",
+			"title": "Dodge Demon",
+			"text": "Luxory super car 1/4-seat",
+			"labels": "",
+			"image": "./img/cars-catalog/demon.jpg",
+			"price": ": 140 000 $",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}

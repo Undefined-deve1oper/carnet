@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 45,
+            "url": "#",
+            "title": "Audi Rs6 Avant",
+            "text": "Luxory station wagon 2-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/rs6.jpg",
+            "price": ": 125 600 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 46,
+            "url": "#",
+            "title": "Audi A8",
+            "text": "Luxsory sedan 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/audi-a8.jpg",
+            "price": ": 170 200 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 47,
+            "url": "#",
+            "title": "Mersedes S Class",
+            "text": "Luxory sedan 4-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/s-class.jpg",
+            "price": ": 180 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 48,
+            "url": "#",
+            "title": "Lexsus Lx 570",
+            "text": "Luxory suv 7-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/lx.jpg",
+            "price": ": 101 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

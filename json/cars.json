@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "id": 9,
+            "url": "#",
+            "title": "Mersedes Gt63s",
+            "text": "Luxory sport-car 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/gt63s.jpg",
+            "price": ": 165 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 10,
+            "url": "#",
+            "title": "Dodge Ram TRX",
+            "text": "Luxory suv 5-seats",
+            "labels": [
+                {
+                    "type": "sale",
+                    "value": "-5%"
+                }
+            ],
+            "image": "./img/cars-catalog/trx.jpg",
+            "price": ": 190 950 $",
+            "priceOld": ": 201 000 $",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 11,
+            "url": "#",
+            "title": "Laborghini Huracan Performante",
+            "text": "Luxory super-car 2-seat",
+            "labels": [
+                {
+                    "type": "sale",
+                    "value": "-50%"
+                },
+                {
+                    "type": "new",
+                    "value": "New"
+                }
+            ],
+            "image": "./img/lambo.jpg",
+            "price": ": 175 000 $",
+            "priceOld": ": 350 000 $",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 12,
+            "url": "#",
+            "title": "Porshe Panamera Turbo s e-hybrid",
+            "text": "Luxory sport-car 4-seats",
+            "labels": "",
+            "image": "./img/panamera.jpg",
+            "price": ": 250 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

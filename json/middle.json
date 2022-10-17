@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 33,
+            "url": "#",
+            "title": "Suzuki Jimny",
+            "text": "City suv 2-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/Suzuki-Jimny.jpg",
+            "price": ": 11 600 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 34,
+            "url": "#",
+            "title": "Land Cruiser Prado 120",
+            "text": "Middle suv 5-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/prado.jpg",
+            "price": ": 13 200 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 35,
+            "url": "#",
+            "title": "Kia K5 2021",
+            "text": "Sedan 4-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/kia-k5-2021.jpg",
+            "price": ": 13 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 36,
+            "url": "#",
+            "title": "Chevrolet Camaro 3.6",
+            "text": "City sedan 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/chevrolet_camaro-36.jpg",
+            "price": ": 12 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

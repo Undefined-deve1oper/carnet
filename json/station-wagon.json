@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 69,
+            "url": "#",
+            "title": "Dodge Magnum",
+            "text": "City station wagon 5-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/magnum.jpg",
+            "price": ": 25 600 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 70,
+            "url": "#",
+            "title": "Audi rs3",
+            "text": "Luxsory station wagon 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/rs3.jpg",
+            "price": ": 120 200 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 71,
+            "url": "#",
+            "title": "Audi rs4",
+            "text": "Luxsory station wagon 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/rs4.jpg",
+            "price": ": 129 200 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 72,
+            "url": "#",
+            "title": "Ford Focus Rs",
+            "text": "Luxory suv 7-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/focus-rs.webp",
+            "price": ": 62 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}

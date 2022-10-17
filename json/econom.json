@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 21,
+            "url": "#",
+            "title": "Honda Odyssey",
+            "text": "Station Wagon 7-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/odyssey.jpg",
+            "price": ": 4 500 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 22,
+            "url": "#",
+            "title": "Ford Focus",
+            "text": "Station Wagon 4-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/focus.jpg",
+            "price": ": 3 000 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 23,
+            "url": "#",
+            "title": "Honda Accord",
+            "text": "Sedan 4-seat",
+            "labels": "",
+            "image": "./img/cars-catalog/accord.jpg",
+            "price": ": 4 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        },
+        {
+            "id": 24,
+            "url": "#",
+            "title": "Nissan Primiera",
+            "text": "Station Wagon 5-seats",
+            "labels": "",
+            "image": "./img/cars-catalog/primiera.jpg",
+            "price": ": 3 450 $",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+        }
+    ]
+}
